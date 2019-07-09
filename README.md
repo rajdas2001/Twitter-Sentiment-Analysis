@@ -8,3 +8,6 @@ This project is a Twitter Sentiment Analyser that takes in a subject for it's qu
 
 2. Get the API keys from Twitter and Aylien.
 3. Copy and paste the code, fill in your keys and you are good to go!
+
+Sample Output: 
+![](Sentiment_Analysis_of_10_Tweets_About_tesla.png)
